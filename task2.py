@@ -11,12 +11,10 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 # last
 
-
 # birth
-
-
+birth= int(birth)
 # days
-
+days = int(days)
 
 # p_first
 
